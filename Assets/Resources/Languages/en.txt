@@ -1,0 +1,11 @@
+PLAY=PLAY
+SETTING=SETTING
+MENU=MENU
+RULES=HOW TO PLAY
+RESUME=RESUME
+RESTART=RESTART
+SHOP=SHOP
+RULESTEXT=Steer the car left and right, thus drifting. Stay in the figure to get extra fuel
+PAUSE=PAUSE
+SCORE=SCORE
+RECORD=RECORD

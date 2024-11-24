@@ -1,0 +1,11 @@
+PLAY=JOGAR
+SETTING=CONFIGURACAO
+MENU=MENU
+RULES=COMO JOGAR
+RESUME=RESUMO
+RESTART=REINICIAR
+SHOP=LOJA
+RULESTEXT=Dirija o carro para a esquerda e para a direita, fazendo drift. Mantenha-se na figura para obter combustível extra
+PAUSE=PAUSA
+SCORE=ESCORE
+RECORD=REGISTRO
